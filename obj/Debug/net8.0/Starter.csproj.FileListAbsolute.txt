@@ -12,3 +12,4 @@
 /Users/daledahlenburg/CsharpProjects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
 /Users/daledahlenburg/CsharpProjects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
 /Users/daledahlenburg/CsharpProjects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
+/Users/daledahlenburg/CsharpProjects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
